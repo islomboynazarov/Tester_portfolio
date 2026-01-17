@@ -1,25 +1,25 @@
-Test Plan — Sauce Demo Website
+**Test Plan — Sauce Demo Website**
 
-1. Objective
+**1. Objective**
 
     The objective of this test plan is to verify the core functional behavior of the Sauce Demo e-commerce website, ensuring that critical user flows work as expected and major defects are identified before release.
 
-2. Application Under Test (AUT)
+**2. Application Under Test (AUT)**
 
-    Application Name: Sauce Demo
-    URL: https://www.saucedemo.com/
-    Application Type: Web-based e-commerce application
+   - Application Name: Sauce Demo
+   - URL: https://www.saucedemo.com/
+   - Application Type: Web-based e-commerce application
 
-3. Scope of Testing
+**3. Scope of Testing**
 
-3.1 In-Scope Features
+**3.1 In-Scope Features**
  
-    The following features will be tested:
-    Login functionality
-    Product listing
-    Product sorting
-    Shopping cart 
-    Checkout process
+   - The following features will be tested:
+   - Login functionality
+   - Product listing
+   - Product sorting
+   - Shopping cart 
+   - Checkout process
 
 3.2 Out-of-Scope Features
 
@@ -93,6 +93,7 @@ Test Plan — Sauce Demo Website
 12. Approval
 
   This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
