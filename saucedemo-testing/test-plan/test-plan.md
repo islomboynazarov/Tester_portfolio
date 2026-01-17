@@ -81,7 +81,7 @@
     Some defects may be intentionally present
     Environment behavior may change unexpectedly
 
-    Assumptions**
+    Assumptions
  
     The application is stable during testing
     Demo users represent real user behavior
@@ -93,6 +93,7 @@
 12. Approval
 
   This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
