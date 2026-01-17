@@ -1,6 +1,6 @@
 **Test Plan — Sauce Demo Website**
 
-**1. Objective**
+1. Objective
 
     The objective of this test plan is to verify the core functional behavior of the Sauce Demo e-commerce website, ensuring that critical user flows work as expected and major defects are identified before release.
 
@@ -93,6 +93,7 @@
 **12. Approval**
 
   This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
