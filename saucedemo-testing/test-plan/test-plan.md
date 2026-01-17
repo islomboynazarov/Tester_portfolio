@@ -12,7 +12,7 @@ Test Plan — Sauce Demo Website
 
 3. Scope of Testing
 
- 3.1 In-Scope Features
+3.1 In-Scope Features
  
     The following features will be tested:
     Login functionality
@@ -21,7 +21,7 @@ Test Plan — Sauce Demo Website
     Shopping cart 
     Checkout process
 
-  3.2 Out-of-Scope Features
+3.2 Out-of-Scope Features
 
     Performance testing 
     Security testing
@@ -93,6 +93,7 @@ Test Plan — Sauce Demo Website
 12. Approval
 
   This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
