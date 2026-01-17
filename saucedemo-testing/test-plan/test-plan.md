@@ -90,9 +90,10 @@
 
   Tester: Manual QA Engineer (Portfolio Project)
 
-12. Approval
+**12. Approval**
 
   This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
