@@ -20,10 +20,11 @@ username - standard_user
 password - secret_sauce
 
 Post Condition: 
-User shoul be able to the home page
+User should be able to the home page
 
 Expected Result:
 - User is logged in successfully
 
 Actual Result:
 - User is logged in successfully
+--------------------------------------------------------
