@@ -1,11 +1,13 @@
 **Login Scenarios**
 
+**Scenario ID:** SC_LOGIN_01
+
 Verify login with valid credentials
 
-Verify login with invalid username
 
-Verify login with invalid password
+**Scenario ID:** SC_LOGIN_02
 
 Verify login with empty fields
 
-Verify error message is displayed for failed login
+
+
