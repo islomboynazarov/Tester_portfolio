@@ -46,7 +46,7 @@
 **6. Test Environment**
 
    - Operating System: Windows 10
-   - Browser: Brave (latest version)
+   - Browser: Brave 1.86.139
    - Internet Connection: Stable broadband
    - Test Data: Predefined test credentials provided by the application
 
@@ -93,6 +93,7 @@
 **12. Approval**
 
  - This test plan is prepared for educational and portfolio purposes to demonstrate manual testing skills and QA documentation practices.
+
 
 
 
