@@ -1,8 +1,8 @@
 Test Case ID: TC_LOGIN_001
+
 Title: Verify login with valid credentials
 
-Related Scenario ID:
-SC_LOGIN_01
+Related Scenario ID: SC_LOGIN_01
 
 Preconditions:
 - User is on the login page
@@ -12,5 +12,16 @@ Test Steps:
 2. Enter valid password
 3. Click Login
 
+Preconditions:
+Valid URL Test Data
+
+Test Data:
+
+Post Condition: 
+User shoul be able to the home page
+
 Expected Result:
 - User is logged in successfully
+
+Actual result
+- 
