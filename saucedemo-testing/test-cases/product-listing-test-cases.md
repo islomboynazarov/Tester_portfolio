@@ -1,8 +1,8 @@
-Test Case ID: TC_PROD_001
+**Test Case ID:** TC_PROD_001
 
-Title: Verify all products are displayed after successful login
+**Title:** Verify all products are displayed after successful login
 
-Related Scenario ID: SC_PROD_01
+**Related Scenario ID:** SC_PROD_01
 
 Preconditions:
 
@@ -46,6 +46,7 @@ Actual result"
 
 
 --------------------------------------------------------------------------------------------------------------------
+
 
 
 
