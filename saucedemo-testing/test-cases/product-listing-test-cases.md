@@ -1,5 +1,7 @@
 Test Case ID: TC_PROD_001
+
 Title: Verify all products are displayed after successful login
+
 Related Scenario ID: SC_PROD_01
 
 Preconditions:
@@ -40,4 +42,18 @@ Product price
 
 “Add to cart” button
 
+Actual result"
+
+
 --------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
