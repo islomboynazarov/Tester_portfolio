@@ -123,7 +123,7 @@ Actual Result:
 
 Test Case ID: TC_LOGIN_005
 
-Title: Verify login with an empty credentials
+Title: Verify login with an empty fields
 
 Related Scenario ID: SC_LOGIN_01
 
