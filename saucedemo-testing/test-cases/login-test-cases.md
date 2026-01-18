@@ -1,31 +1,31 @@
-Test Case ID: TC_LOGIN_001
+**Test Case ID:** TC_LOGIN_001
 
-Title: Verify login with valid credentials
+**Title:** Verify login with valid credentials
 
-Related Scenario ID: SC_LOGIN_01
+**Related Scenario ID:** SC_LOGIN_01
 
-Preconditions:
+**Preconditions:**
 - User is on the login page
 
-Test Steps:
+**Test Steps:**
 1. Enter valid username
 2. Enter valid password
 3. Click Login
 
-Preconditions:
+**Preconditions:**
 Valid URL Test Data
 
-Test Data: 
+**Test Data:**
 username - standard_user
 password - secret_sauce
 
-Post Condition: 
+**Post Condition:**
 User should be able to the home page
 
-Expected Result:
+**Expected Result:**
 - User is logged in successfully
 
-Actual Result:
+**Actual Result:**
 - User is logged in successfully
 --------------------------------------------------------
 Test Case ID: TC_LOGIN_002
