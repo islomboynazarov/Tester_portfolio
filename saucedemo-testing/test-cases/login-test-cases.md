@@ -15,7 +15,9 @@ Test Steps:
 Preconditions:
 Valid URL Test Data
 
-Test Data:
+Test Data: 
+username - standard_user
+password - secret_sauce
 
 Post Condition: 
 User shoul be able to the home page
@@ -23,5 +25,5 @@ User shoul be able to the home page
 Expected Result:
 - User is logged in successfully
 
-Actual result
-- 
+Actual Result:
+- User is logged in successfully
