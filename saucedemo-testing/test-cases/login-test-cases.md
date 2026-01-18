@@ -125,7 +125,7 @@ User should be able to see the home page
 
 **Title:** Verify login with an empty fields
 
-**Related Scenario ID:** SC_LOGIN_01
+**Related Scenario ID:** SC_LOGIN_02
 
 **Preconditions:**
 - User is on the login page
