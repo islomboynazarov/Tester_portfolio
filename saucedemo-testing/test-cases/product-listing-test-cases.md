@@ -4,29 +4,29 @@
 
 **Related Scenario ID:** SC_PROD_01
 
-Preconditions:
+**Preconditions:**
 
 User has valid login credentials
 
 User is on the Sauce Demo login page
 
-Test Steps:
+**Test Steps:**
 
-Enter valid username
+1. Enter valid username
 
-Enter valid password
+2. Enter valid password
 
-Click the Login button
+3. Click the Login button
 
-Observe the Products page
+4. Observe the Products page
 
-Test Data:
+**Test Data:**
 
 Username: standard_user
 
 Password: secret_sauce
 
-Expected Result:
+**Expected Result:**
 
 User is redirected to the Products page
 
@@ -42,19 +42,74 @@ Product price
 
 “Add to cart” button
 
-Actual result"
+**Actual result**
 
+User is redirected to the Products page
+
+All available products are displayed
+
+Each product shows:
+
+Product name
+
+Product image
+
+Product price
+
+“Add to cart” button
 
 --------------------------------------------------------------------------------------------------------------------
 
+**Test Case ID:** TC_PROD_002
 
+**Title:** Verify total number of products displayed is correct
 
+**Related Scenario ID:** SC_PROD_02
 
+**Preconditions:**
 
+User is logged in successfully
 
+**Test Steps:**
 
+1. User is redirected to the Products page
 
+2. Count the number of products displayed on the Products page
 
+**Expected Result:**
 
+Exactly 6 products are displayed on the Products page
+
+**Actual Results**
+
+Exactly 6 products are displayed on the Products page
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Test Case ID:** TC_PROD_003
+
+**Title:** Verify no product information is missing after login
+
+**Related Scenario ID:** SC_PROD_03
+
+**Preconditions:**
+
+User is logged in successfully
+
+**Test Steps:**
+
+1. Review each product listed on the Products page
+
+Expected Result:
+
+No product is missing name, price, image, or action button
+
+No broken images or empty fields are present
+
+Actual Result:
+
+No product is missing name, price, image, or action button
+
+No broken images or empty fields are present
 
 
